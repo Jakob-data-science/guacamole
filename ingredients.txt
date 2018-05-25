@@ -2,3 +2,4 @@ avocado
 salt
 lime
 onions
+jalapeno
